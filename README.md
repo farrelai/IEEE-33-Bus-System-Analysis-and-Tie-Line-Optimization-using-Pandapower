@@ -1,0 +1,2 @@
+# IEEE-33-Bus-System-Analysis-and-Tie-Line-Optimization-using-Pandapower
+IEEE 33-bus analysis using pandapower. Strategic tie-line integration transformed the radial network into a resilient weakly meshed configuration. Result: significant voltage profile improvement (RMSE 0.052). Demonstrates expertise in power system modeling, computational analysis, and grid reconfiguration to minimize network losses.
